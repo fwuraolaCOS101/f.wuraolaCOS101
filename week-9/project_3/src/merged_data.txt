@@ -1,0 +1,6 @@
+SN	NAME OF COMMISSIONER	GEOPOLITICAL ZONE	MINISTRY
+1	Aigbogun Alamba Daudu	South west	Internal Affairs
+2	Muritala Afeez Bendu	North east	Justice
+3	Okorocha Calistus Ogbona	South south	Defense
+4	Adewale Jimoh Akanbi	South east	Power & Steel
+5	Osazuwa Faith Etieye	South west	Petroleum
